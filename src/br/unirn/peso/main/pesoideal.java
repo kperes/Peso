@@ -26,7 +26,7 @@ public class pesoideal {
 		} else {
 			ideal = (72.7 * h) - 58;
 		}
-		JOptionPane.showMessageDialog(null, "Seu pezo atual é" + "  " + peso
+		JOptionPane.showMessageDialog(null, "Seu peso atual é" + "  " + peso
 				+ "O peso ideal é" + "  " + ideal);
 	}
 }
